@@ -1,12 +1,13 @@
-# ![Scientific Calculator](icon.png)
+
+
+### My First Semester Project
+
+This project is a culmination of my dedication and passion for science and programming. It's the result of my first-semester project, where I applied my knowledge and skills to create a user-friendly scientific calculator. I designed this to simplify my mathematical journey as a computer science student.
 
 ## Unlock the Power of Science with the GUI-based Scientific Calculator!
 
-Welcome to my world of science and calculations. I've built a sleek, user-friendly Scientific Calculator with a Graphical User Interface (GUI) using PyQt5, turning complex mathematics into a delightful experience. Whether you're a student, a scientist, or anyone in between, this calculator simplifies your mathematical journey.
+Welcome to my world of science and calculations. I've built a sleek, user-friendly Scientific Calculator with a Graphical User Interface (GUI) using PyQt5, turning complex mathematics into a delightful experience. Starting from basic concepts, we dive deep into advanced functions, providing you with a comprehensive tool for solving complex problems.
 
-### Dive into the World of Science
-
-This project takes you on an exciting journey through the world of mathematics and programming. Starting from basic concepts, we dive deep into advanced functions, providing you with a comprehensive tool for solving complex problems.
 
 ### What I've Covered
 
@@ -21,39 +22,36 @@ Throughout the development of this scientific calculator, I've explored a wide r
 
 ### Embrace the New
 
-In addition to the fundamentals, this project introduces new content, including:
+In addition to the fundamentals taught in class, I also added new content which I self-learned during the semester, including:
 
 - **PyQt5 Library:** Creating an appealing graphical user interface.
 - **Functools Library:** Mastering partial functions.
 - **Sys Module:** Enhancing system-level interactions.
 - **Graphical User Interface:** Beautifully designed to make calculations enjoyable.
-- **Objects and Classes:** Enhancing the calculator's functionality.
+- **Objects and Classes:** I've adopted Object-Oriented Programming (OOP) principles to implement the Model-View-Controller (MVC) architectural pattern, enhancing the calculator's functionality.
 - **Date and Time Module:** Ensuring you're never late for an important date.
 
-### Seamless Setup
+### The Model-View-Controller (MVC) Method
 
-Setting up this calculator is as easy as 1-2-3. Run the Python script, and you'll instantly have a powerful scientific calculator at your fingertips.
+To ensure a robust and maintainable structure for this scientific calculator, I've employed the Model-View-Controller (MVC) architectural pattern. Here's how it works:
+
+- **Model:** The core logic and data of the calculator are encapsulated in the model. It handles mathematical operations and data storage. This separation ensures a clean and organized core. In the code, you can find the `evaluateExpression` function, which is responsible for evaluating mathematical expressions.
+
+- **View:** The user interface is managed by the view. It displays data to the user and receives input from them. The PyQt5 library enhances the aesthetics and user experience. In the code, the view is defined in the `PyCalcWindow` class.
+
+- **Controller:** The controller acts as an intermediary between the model and the view. It processes user input, communicates with the model to perform calculations, and updates the view to display results. In the code, you can see the `pyCalc` class, which connects user input to mathematical calculations and updates the display.
+
+This separation of concerns makes the code modular, maintainable, and scalable, following best practices in software architecture.
+
 
 ### Calculator Versions
 
-I've iteratively enhanced this calculator to provide you with the best features. Explore different versions and discover the evolution of this fantastic tool:
-
 - **Version 1:** Basic arithmetic operations.
-- **Version 2:** Improved user interface and additional features.
-- **Version 3:** Advanced mathematical functions.
+- **Version 2:** Improved user interface by implementing HTML and added additional functions like square roots, trigonometric operations etc.
+- **Version 3:** User-defined mathematical functions like decimal to binary conversion.
 - **Version 4:** Data preservation with CSV file support.
 
-### Basic Arithmetic and Beyond
-
-Your scientific journey begins with basic arithmetic, where you can perform addition, subtraction, multiplication, and division with ease. But this calculator doesn't stop there! It's equipped to handle advanced functions like square roots, trigonometric operations, and more. From power functions to logarithms, it has you covered.
 
 ### Test the Limits
 
 Unleash the full potential of this calculator. Test it with complex expressions, and you'll see how it performs flawlessly. The results are not only displayed on the screen but also saved in a CSV file, ensuring your calculations are never lost.
-
-### Conclusion
-
-My Scientific Calculator is more than just a tool—it's a companion for your scientific and mathematical endeavors. I've combined the beauty of mathematics with the convenience of technology to make your calculations efficient and enjoyable.
-
-Embrace the power of science. Dive into the world of mathematics. Download this GUI-based Scientific Calculator now, and let your scientific journey begin!
-
