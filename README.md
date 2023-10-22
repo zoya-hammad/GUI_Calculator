@@ -31,6 +31,8 @@ In addition to the fundamentals taught in class, I also added new content which 
 - **Objects and Classes:** I've adopted Object-Oriented Programming (OOP) principles to implement the Model-View-Controller (MVC) architectural pattern, enhancing the calculator's functionality.
 - **Date and Time Module:** Ensuring you're never late for an important date.
 
+Furthermore, I've personalized this project by creating a customized icon for the .exe file, adding a unique touch to the user experience.
+
 ### The Model-View-Controller (MVC) Method
 
 To ensure a robust and maintainable structure for this scientific calculator, I've employed the Model-View-Controller (MVC) architectural pattern. Here's how it works:
