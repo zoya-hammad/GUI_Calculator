@@ -60,8 +60,7 @@ This separation of concerns makes the code modular, maintainable, and scalable, 
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/b5760798-c144-414f-9c68-c23577c8a2b0)
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/786d7c77-5f9f-4323-87cf-091862c98cb8)
 
-
-
+  ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/45d9f9c8-5454-404f-804f-f8e344afe76d)
 
 ### Test the Limits
 
