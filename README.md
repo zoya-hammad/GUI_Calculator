@@ -53,12 +53,10 @@ This separation of concerns makes the code modular, maintainable, and scalable, 
 - **Version 3:** User-defined mathematical functions like decimal to binary conversion.
 - **Version 4:** Data preservation with CSV file support, further HTML and CSS use (different colours for hovering, clicking, default etc.)
 
-**Versions 1-3:**
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/d7276600-ef62-4713-8b16-6df5492a29f8)
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/f28f68f8-5cbe-410f-b180-2932e975ebc2)
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/bd2c5dd5-1388-4c0b-bf6d-8b7d71eb2455)
 
-**Version 4:**
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/b5760798-c144-414f-9c68-c23577c8a2b0)
   ![image](https://github.com/zoya-hammad/GUI_Calculator/assets/116413504/786d7c77-5f9f-4323-87cf-091862c98cb8)
 
